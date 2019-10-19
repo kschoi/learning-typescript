@@ -2,7 +2,7 @@
 
 ## /01.fetchjson
 
-타입스크립트 컴파일러(tsc) 실행 및 json 데이터타입 정의해보기
+- 타입스크립트 컴파일러(tsc) 실행 및 json 데이터타입 정의해보기
 
 #### install
 
@@ -24,10 +24,9 @@ ts-node index.ts
 
 ## /02.maps
 
-왜 in
-typescript 라이브러리 불러오는 방법과 타입정의파일(\*.d.ts) 이해
-parcel-bundler 사용해보기
-Mappable 인터페이스 구현하기
+- typescript 라이브러리 불러오는 방법과 타입정의파일(\*.d.ts) 이해
+- parcel-bundler 사용해보기
+- Mappable 인터페이스 구현하기
 
 #### install
 
@@ -44,9 +43,9 @@ parcel index.html
 
 ## /03.sort
 
-tsconfig.json 생성 및 수정해보기(tsc --init)
-npm script: nodemon, concurrently 사용해보기
-number[], string, linked list 등 다른 형식의 데이터 컬렉션을 처리하는 Sort 추상 클래스 작성하기
+- tsconfig.json 생성 및 수정해보기(tsc --init)
+- npm script: nodemon, concurrently 사용해보기
+- number[], string, linked list 등 다른 형식의 데이터 컬렉션을 처리하는 Sort 추상 클래스 작성하기
 
 #### install
 
@@ -63,10 +62,11 @@ npm start;
 
 ## /04.stats
 
-Nodejs type definition 알아보기(@types/node)
-enum과 제네릭 알아보기
-date string을 Date type으로 변경해보기
-Nodejs fs module을 이용하여 프리미어리그 전적 데이터 읽어서 리포트 제작해보기
+- Nodejs type definition 알아보기(@types/node)
+- Nodejs fs module을 이용하여 프리미어리그 전적 데이터 읽어서 리포트 제작해보기
+- enum과 제네릭 알아보기
+- date string을 Date type으로 변경해보기
+- 상속이 아닌 합성으로 구현해보기
 
 #### install
 
