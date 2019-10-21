@@ -45,7 +45,7 @@ parcel index.html
 
 - tsconfig.json 생성 및 수정해보기(tsc --init)
 - npm script: nodemon, concurrently 사용해보기
-- number[], string, linked list 등 다른 형식의 데이터 컬렉션을 처리하는 Sort 추상 클래스 작성하기
+- number[], string, linked list 등 다른 형식의 데이터 컬렉션을 처리하는 Sort 추상 클래스 상속(inheritance) 구현하기
 
 #### install
 
@@ -66,7 +66,7 @@ npm start;
 - Nodejs fs module을 이용하여 프리미어리그 전적 데이터 읽어서 리포트 제작해보기
 - enum과 제네릭 알아보기
 - date string을 Date type으로 변경해보기
-- 상속이 아닌 합성으로 구현해보기
+- 자바스크립트 합성(composition) 이해하기
 
 #### install
 
