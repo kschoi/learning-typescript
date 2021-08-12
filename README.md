@@ -57,7 +57,7 @@ npm i nodemon concurrently
 
 ```js
 // build and run
-npm start;
+npm start
 ```
 
 ## /04.stats
